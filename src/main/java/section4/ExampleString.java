@@ -1,6 +1,6 @@
-package section4.string;
+package section4;
 
-public class Main {
+public class ExampleString {
 
     public static void main(String[] args) {
         // byte
